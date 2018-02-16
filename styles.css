@@ -1,0 +1,12 @@
+
+.container {
+    height: 600PX;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.section{
+    display: flex;
+    flex-direction: column;
+}
